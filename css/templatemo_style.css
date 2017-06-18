@@ -289,17 +289,17 @@ hr {
 .logo-wrapper a {
   display: inline-block;
   overflow: hidden;
-  padding-left: 130px;
+  padding-left: 120px;
   line-height: 100px;
   text-transform: uppercase;
   color: #ec523f;
-  font-size: 32px;
+  font-size: 14px;
   font-weight: 700;
 }
 
 .main-menu ul li {
   display: inline-block;
-  margin: 0 20px;
+  margin: 0 10px;
 }
 .main-menu ul li:last-child {
   margin-right: 35px;
